@@ -1,0 +1,15 @@
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.deps.json
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.runtimeconfig.json
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.dll
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.pdb
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.AssemblyReference.cache
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfoInputs.cache
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfo.cs
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.sourcelink.json
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.dll
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\refint\SoftUniBazar.Data.dll
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.pdb
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.genruntimeconfig.cache
+D:\DevOps-May-2025\Exam-Preparations\SEDO-Regular-Exam-2024-10-27\SoftUniBazar.Data\obj\Debug\net6.0\ref\SoftUniBazar.Data.dll
